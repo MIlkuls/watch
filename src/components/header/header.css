@@ -1,0 +1,82 @@
+header{
+    background-image: url("/src/components/header/image/background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+
+}
+
+.logo-search_form{
+ margin-bottom: 40px ;
+ background-color: black;
+}
+.logo{
+font-size: 24px;
+line-height: 150%;
+letter-spacing: 0.15em;
+color:#FFCB8E;
+}
+input{
+    outline: none;
+    background-color:black;
+    border: none;
+    color:white;
+    margin-top: 6px;
+}
+
+input::placeholder{
+    color:white;
+    font-size: 20px;
+}
+.search{
+    top:5px;
+    right:180px;
+}
+
+nav{
+    background-color:black;
+}
+li{
+    padding:10px;
+    list-style: none;
+    color:white;
+    transition: all 0.5s ease-out;
+    font-size: 20px;
+}
+li:hover{
+    color:#FFCB8E;
+    transition: all 0.5s ease-out;
+}
+
+
+.header_info{
+    padding: 200px;
+    gap:50px;
+    color:white;
+    
+}
+h1{
+   text-transform: uppercase;
+   font-size: 36px;
+}
+h1::first-letter{
+    color:#FFCB8E;
+}
+p{
+    text-align: center;
+    font-size: 24px;
+}
+button{
+margin-top: 50px;
+box-sizing: border-box;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 316px;
+height: 80px;
+border: 3px solid #FFCB8E;
+background-color:transparent;
+color:#FFCB8E;
+font-size: 24px;
+}
+
