@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/watch/static/css/main.e7f533b8.css",
-    "main.js": "/watch/static/js/main.359100cc.js",
+    "main.css": "/watch/static/css/main.a060e442.css",
+    "main.js": "/watch/static/js/main.9ad3e7d0.js",
     "static/media/background.png": "/watch/static/media/background.1fa4dd9240c8d2df2281.png",
+    "static/media/backgound2.png": "/watch/static/media/backgound2.c798fd122c68d17c289f.png",
     "static/media/Breguet.png": "/watch/static/media/Breguet.23c872355f70dbda3a22.png",
     "static/media/Piguet.png": "/watch/static/media/Piguet.d58ef90584204d0dc15a.png",
     "static/media/Hublot.png": "/watch/static/media/Hublot.6314fa5c15ea98af288e.png",
@@ -10,11 +11,11 @@
     "static/media/Zenith.png": "/watch/static/media/Zenith.752b855a3e48a30fbc82.png",
     "static/media/search.svg": "/watch/static/media/search.5b82245e56b8f9bccfebad1ce7e35db7.svg",
     "index.html": "/watch/index.html",
-    "main.e7f533b8.css.map": "/watch/static/css/main.e7f533b8.css.map",
-    "main.359100cc.js.map": "/watch/static/js/main.359100cc.js.map"
+    "main.a060e442.css.map": "/watch/static/css/main.a060e442.css.map",
+    "main.9ad3e7d0.js.map": "/watch/static/js/main.9ad3e7d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f533b8.css",
-    "static/js/main.359100cc.js"
+    "static/css/main.a060e442.css",
+    "static/js/main.9ad3e7d0.js"
   ]
 }
