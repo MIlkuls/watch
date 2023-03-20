@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/watch/static/css/main.00e84df5.css",
-    "main.js": "/watch/static/js/main.7836e816.js",
+    "main.css": "/watch/static/css/main.2bdfe1be.css",
+    "main.js": "/watch/static/js/main.8966d0f0.js",
     "static/media/background.png": "/watch/static/media/background.1fa4dd9240c8d2df2281.png",
     "static/media/backgound2.png": "/watch/static/media/backgound2.c798fd122c68d17c289f.png",
     "static/media/Breguet.png": "/watch/static/media/Breguet.23c872355f70dbda3a22.png",
@@ -12,11 +12,11 @@
     "static/media/stars.svg": "/watch/static/media/stars.f1d62cdd1bc196bcfa7209550cd2e704.svg",
     "static/media/search.svg": "/watch/static/media/search.5b82245e56b8f9bccfebad1ce7e35db7.svg",
     "index.html": "/watch/index.html",
-    "main.00e84df5.css.map": "/watch/static/css/main.00e84df5.css.map",
-    "main.7836e816.js.map": "/watch/static/js/main.7836e816.js.map"
+    "main.2bdfe1be.css.map": "/watch/static/css/main.2bdfe1be.css.map",
+    "main.8966d0f0.js.map": "/watch/static/js/main.8966d0f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.00e84df5.css",
-    "static/js/main.7836e816.js"
+    "static/css/main.2bdfe1be.css",
+    "static/js/main.8966d0f0.js"
   ]
 }
