@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/watch/static/css/main.2bdfe1be.css",
-    "main.js": "/watch/static/js/main.8966d0f0.js",
+    "main.css": "/watch/static/css/main.1371f996.css",
+    "main.js": "/watch/static/js/main.b0b2aae3.js",
+    "static/media/galary1.png": "/watch/static/media/galary1.be3b6b771989c095145a.png",
+    "static/media/galary3.png": "/watch/static/media/galary3.8fb287dfd1f47c8d6cc5.png",
+    "static/media/galary4.png": "/watch/static/media/galary4.a4913ae07123016673ce.png",
     "static/media/background.png": "/watch/static/media/background.1fa4dd9240c8d2df2281.png",
     "static/media/backgound2.png": "/watch/static/media/backgound2.c798fd122c68d17c289f.png",
+    "static/media/galary6.png": "/watch/static/media/galary6.cd4139ae71606887322b.png",
+    "static/media/galary2.png": "/watch/static/media/galary2.f6bf2ba46bdd43212634.png",
+    "static/media/galary5.png": "/watch/static/media/galary5.0f7115f4ce315d4012f8.png",
     "static/media/Breguet.png": "/watch/static/media/Breguet.23c872355f70dbda3a22.png",
     "static/media/Piguet.png": "/watch/static/media/Piguet.d58ef90584204d0dc15a.png",
     "static/media/Hublot.png": "/watch/static/media/Hublot.6314fa5c15ea98af288e.png",
     "static/media/Rolex.png": "/watch/static/media/Rolex.6cf0ec34d9ba7e589e83.png",
     "static/media/Zenith.png": "/watch/static/media/Zenith.752b855a3e48a30fbc82.png",
     "static/media/stars.svg": "/watch/static/media/stars.f1d62cdd1bc196bcfa7209550cd2e704.svg",
+    "static/media/instagram.svg": "/watch/static/media/instagram.9e66d9f6a75252c750401b6e32f8681a.svg",
     "static/media/search.svg": "/watch/static/media/search.5b82245e56b8f9bccfebad1ce7e35db7.svg",
+    "static/media/twiter.svg": "/watch/static/media/twiter.76660f490e9000feab1e853d47d399a8.svg",
     "index.html": "/watch/index.html",
-    "main.2bdfe1be.css.map": "/watch/static/css/main.2bdfe1be.css.map",
-    "main.8966d0f0.js.map": "/watch/static/js/main.8966d0f0.js.map"
+    "static/media/youtube.svg": "/watch/static/media/youtube.8383ffd4c52c8da89783c8986f33bdeb.svg",
+    "static/media/facebook.svg": "/watch/static/media/facebook.3abc919d4e1377416a2fe2e7115204fe.svg",
+    "main.1371f996.css.map": "/watch/static/css/main.1371f996.css.map",
+    "main.b0b2aae3.js.map": "/watch/static/js/main.b0b2aae3.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bdfe1be.css",
-    "static/js/main.8966d0f0.js"
+    "static/css/main.1371f996.css",
+    "static/js/main.b0b2aae3.js"
   ]
 }
